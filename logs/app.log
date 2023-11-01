@@ -1,0 +1,130 @@
+[INFO ] 2023-11-01 21:00:43.133 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 21:02:27.696 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2023-11-01 21:02:27.702 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2023-11-01 21:02:27.703 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.703 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.704 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.704 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.705 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.705 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.709 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2023-11-01 21:02:27.719 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[INFO ] 2023-11-01 21:02:27.720 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.721 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.722 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.722 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.722 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.722 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.723 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.723 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.724 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.724 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.724 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.724 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.725 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.725 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.725 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.726 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2023-11-01 21:02:27.726 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.726 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.727 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.727 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 21:02:27.731 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\AppData\Local\Temp\testng-eclipse-1926405169\testng-customsuite.xml
+
+[INFO ] 2023-11-01 21:02:27.752 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[INFO ] 2023-11-01 21:02:27.845 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2555fff0: 0 ms
+[INFO ] 2023-11-01 21:02:27.872 [main] Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@5d8445d7: 27 ms
+[INFO ] 2023-11-01 21:02:28.004 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@1fe8d51b: 132 ms
+[INFO ] 2023-11-01 21:02:28.025 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3caa4757: 20 ms
+[INFO ] 2023-11-01 21:02:28.040 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@c074c0c: 15 ms
+[INFO ] 2023-11-01 21:02:28.046 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6d1310f6: 6 ms
+[INFO ] 2023-11-01 21:02:28.053 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3c8bdd5b: 6 ms
+[INFO ] 2023-11-01 21:02:38.788 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 21:58:24.478 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:00:58.613 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:02:17.602 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO ] 2023-11-01 22:02:17.610 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2023-11-01 22:02:17.615 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.615 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.616 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.616 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.617 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.617 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.626 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+[INFO ] 2023-11-01 22:02:17.634 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[INFO ] 2023-11-01 22:02:17.635 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.636 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.636 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.636 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.636 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.636 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.638 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.639 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.639 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.639 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.639 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.639 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.640 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.640 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.643 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO ] 2023-11-01 22:02:17.644 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO ] 2023-11-01 22:02:17.645 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.645 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.645 [main] Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.646 [main] Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO ] 2023-11-01 22:02:17.651 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\AppData\Local\Temp\testng-eclipse-1566963208\testng-customsuite.xml
+
+[INFO ] 2023-11-01 22:02:17.671 [main] Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[INFO ] 2023-11-01 22:02:17.812 [main] Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@42a9a63e: 0 ms
+[INFO ] 2023-11-01 22:02:17.846 [main] Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@649f2009: 33 ms
+[INFO ] 2023-11-01 22:02:17.979 [main] Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2d35442b: 133 ms
+[INFO ] 2023-11-01 22:02:17.994 [main] Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@2d8f2f3a: 15 ms
+[INFO ] 2023-11-01 22:02:18.004 [main] Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@28c0b664: 10 ms
+[INFO ] 2023-11-01 22:02:18.013 [main] Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7bdf6bb7: 9 ms
+[INFO ] 2023-11-01 22:02:18.018 [main] Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@160c3ec1: 5 ms
+[INFO ] 2023-11-01 22:02:33.947 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:03:11.360 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:03:34.085 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:04:18.067 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:07:46.379 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:08:15.764 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:15:02.750 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:26:45.154 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:50:45.519 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:52:14.387 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:55:02.689 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+
+[INFO ] 2023-11-01 22:55:40.910 [main] Utils - [TestNG] Running:
+  C:\Users\HARISH S L\eclipse-workspace\IntBankingV1\testng.xml
+

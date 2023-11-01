@@ -1,0 +1,12 @@
+Java Script excecutor 
+==========================
+JSE is a Interface used to perfrom below action on webpage 
+by using JS 
+
+Flashing an object 
+Drwing border arround the element 
+Capture the titile of the page 
+click in same element 
+Geneare the alert info
+refeshing the page 
+Scrolling the page 
